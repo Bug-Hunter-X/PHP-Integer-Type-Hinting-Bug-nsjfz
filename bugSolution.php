@@ -1,0 +1,1 @@
+function foo(int $a, int $b): int { $result = $a + $b; return (int)$result; }
